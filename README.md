@@ -6,11 +6,11 @@ You apply every update at your own risk, I am not responsible for bricked hardwa
 
 Essentials:
 
-BIOS - sp144466.exe - Updater to BIOS version 02.60 Rev.A
+BIOS - sp144466.exe - Updater to BIOS version 02.60 Rev.A\
 IME - sp143093.exe - Intel ME Updater to version 11.8.93
 
 Misc (Apply only if you have this hardware):
 
-sp72808.exe - ASmedia USB 3.1 PCIE Card Power Management Patch (1.0.1.0 Rev.A)
-sp74822.exe - GUD0N DVD Writer Firmware (SD03 Rev.A)
-sp76598.exe - Seagate HDD Firmware Update (HPDE/HPRD Rev.A)
+sp72808.exe - ASmedia USB 3.1 PCIE Card Power Management Patch (1.0.1.0 Rev.A)\
+sp74822.exe - GUD0N DVD Writer Firmware (SD03 Rev.A)\
+sp76598.exe - Seagate HDD Firmware Update (HPDE/HPRD Rev.A)\
